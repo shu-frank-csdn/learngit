@@ -4,4 +4,3 @@ master branch
 create a new branch is quick
 dev branch 
 add work branch
-I accepted a new bug
