@@ -6,3 +6,7 @@ dev branch
 add work branch
 2015.12.27
 add branch test
+git is free software distributed under the GPL
+Git has a mutable index called stage.
+Git tracks changes.
+
